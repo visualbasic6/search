@@ -11,6 +11,12 @@ chmod +x google.go
 go run google.go
 ```
 
+**screenshot**
+
+<img src="https://i.imgur.com/AZhaVUL.png">
+
+
+
 **video**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XBq8IsCuKxg" target="_blank">
@@ -19,9 +25,6 @@ go run google.go
 
 
 
-**screenshot**
-
-<img src="https://i.imgur.com/AZhaVUL.png">
 
 mad love,
 
