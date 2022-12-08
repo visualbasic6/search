@@ -3,6 +3,7 @@ a cli google client that bypasses captcha and rate limiting by using the google 
 
 how to use (ubuntu)
 ```
+snap install go --classic
 git clone https://github.com/visualbasic6/search.git
 cd search
 chmod +x google.go
