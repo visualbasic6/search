@@ -26,6 +26,6 @@ go run google.go
 
 
 
-mad love,
+mad ❤️,
 
 https://twitter.com/123456
