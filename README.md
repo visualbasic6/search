@@ -7,7 +7,6 @@ snap install go --classic
 apt install git
 git clone https://github.com/visualbasic6/search.git
 cd search
-chmod +x google.go
 go run google.go
 ```
 
