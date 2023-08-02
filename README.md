@@ -1,5 +1,5 @@
-# google cli search engine client (coded w/ chatgpt ai)
-a cli google client that bypasses captcha and rate limiting by using the google alert's "preview" feature. this script was written with non-code input by chatgpt ai. it didn't find the captcha/rate limiting bypass - but it did code a functioning implementation of it.
+# google cli search engine client
+a cli google client that bypasses captcha and rate limiting by using the google alert's "preview" feature. this script was written with by chatgpt. it didn't find the captcha/rate limiting bypass - but it did code a functioning implementation of it.
 
 **how to use (ubuntu)**
 ```
@@ -14,15 +14,11 @@ go run google.go
 
 <img src="https://i.imgur.com/AZhaVUL.png">
 
-
-
 **video**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XBq8IsCuKxg" target="_blank">
  <img src="https://i.imgur.com/TEuPFKR.png" />
 </a>
-
-
 
 
 mad ❤️,
